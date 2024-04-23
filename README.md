@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME: KABILAN V
+## REGISTER NO: 212222100018
 ## AIM
 To implement of sliding window protocol
 ## ALGORITHM:
